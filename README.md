@@ -12,10 +12,6 @@
 - ⚡ Fun fact: ...
 
 ### Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c#,kotlin,nodejs,figma" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 [![Qaisar's github stats](https://github-readme-stats.vercel.app/api?username=Qaisarm&theme=vue)](https://github.com/qaisarm/github-readme-stats) [![Qaisar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qaisarm&theme=blue-green)](https://github.com/qaisarm/github-readme-stats)
