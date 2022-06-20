@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Qaisar's github stats](https://github-readme-stats.vercel.app/api?username=Qaisarm&theme=blue-green)](https://github.com/qaisarm/github-readme-stats)
+[![Qaisar's github stats](https://github-readme-stats.vercel.app/api?username=Qaisarm&theme=vue)](https://github.com/qaisarm/github-readme-stats)
 
 [![Qaisar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qaisarm&theme=blue-green)](https://github.com/qaisarm/github-readme-stats)
