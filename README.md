@@ -11,4 +11,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 [![Qaisar's github stats](https://github-readme-stats.vercel.app/api?username=Qaisarm&theme=vue)](https://github.com/qaisarm/github-readme-stats) [![Qaisar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qaisarm&theme=blue-green)](https://github.com/qaisarm/github-readme-stats)
