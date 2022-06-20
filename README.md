@@ -14,7 +14,7 @@
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c#, koitlin, figma, git,,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=c#,kotlin,nodejs,figma" />
   </a>
 </p>
 
