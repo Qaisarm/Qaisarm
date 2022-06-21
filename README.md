@@ -22,7 +22,7 @@ Its well said that:
 
 ![Qaisar's GitHub stats](https://github-readme-stats.vercel.app/api?username=qaisarm&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 
-## Top Langauges 👩‍💻
+## Top Langauges :adult:💻
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qaisarm&hide=TeX&layout=compact)
  
