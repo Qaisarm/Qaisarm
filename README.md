@@ -26,5 +26,5 @@ Its well said that:
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qaisarm&hide=TeX&layout=compact)
  
-## To know more about me<img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="55px"> 
+## To know more about me
  :point_right:  <a href="www.linkedin.com/in/qaisar-mukhtar">Qaisar's LinkenIn Profile</a>
