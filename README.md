@@ -9,7 +9,6 @@ Its well said that:
 👨‍💻Let's Learn and grow<br />
 ⚡ Fun fact: I play Table Tennis and Cricket. I love to watch Footbal and Ice Hockey. <br />
  📫Connect with me here:<br />
- <br />
  <p>
   <a href="https://www.linkedin.com/in/qaisar-mukhtar/">
     <img src="https://img.shields.io/badge/qaisar-mukhtar?style=flat&logo=linkedin">
