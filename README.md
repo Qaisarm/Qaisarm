@@ -17,7 +17,7 @@ Its well said that:
 
 ## Tools & Technologies :computer: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,kotlin,nodejs,figma,azure,react,atom,dotnet,idea,mongodb,vscode,webpack,latex)](https://skillicons.dev)
-## My GitHub Stats ⚡                      ## Top Langauges :man_technologist:
+<p> ## My GitHub Stats ⚡                      ## Top Langauges :man_technologist: </p>
 
 ![Qaisar's GitHub stats](https://github-readme-stats.vercel.app/api?username=qaisarm&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qaisarm&hide=TeX&layout=compact)
