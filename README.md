@@ -15,15 +15,16 @@ Its well said that:
   </a> 
 </p>
 
-## Tools & Technologies :computer:
+## Tools & Technologies :computer: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,kotlin,nodejs,figma,azure,react,atom,dotnet,idea,mongodb,vscode,webpack,latex)](https://skillicons.dev)
-## My GitHub Stats ⚡
+## My GitHub Stats ⚡                      ## Top Langauges :man_technologist:
 
 ![Qaisar's GitHub stats](https://github-readme-stats.vercel.app/api?username=qaisarm&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-
-## Top Langauges :man_technologist:
- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qaisarm&hide=TeX&layout=compact)
+
+
+ 
+
  
 ## To know more about me
  :point_right:  <a href="www.linkedin.com/in/qaisar-mukhtar">Qaisar's LinkenIn Profile</a>
