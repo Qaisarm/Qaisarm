@@ -27,4 +27,4 @@ Its well said that:
 
  
 ## To know more about me
- :point_right:  <a href="www.linkedin.com/in/qaisar-mukhtar">Qaisar's LinkenIn Profile</a>
+ :point_right:  <a href="https://www.linkedin.com/in/qaisar-mukhtar/">Qaisar's LinkenIn Profile</a>
