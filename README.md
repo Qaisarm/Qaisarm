@@ -14,9 +14,8 @@ Its well said that:
     <img src="https://img.shields.io/badge/qaisar-mukhtar?style=flat&logo=linkedin">
   </a> 
 </p>
+
 ## Tools & Technologies :computer: 
-
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,kotlin,nodejs,figma,azure,react,atom,dotnet,idea,mongodb,vscode,webpack,latex)](https://skillicons.dev)
 
 
