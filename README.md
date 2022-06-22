@@ -3,10 +3,10 @@
 ### I'm Qaisar Mukhtar 
 
 🎓 I’m a Fullstack Developer graduated from "</Salt>" School of Applied Technologies.<br/>
-👨‍💻 I am passionate about Web Dev, Android Mobile Development User Interface Design, & I enjoy learning new things exploring new technologies and leverage them to solve real-life problems. I tend to discover ways to apply my knowledge.<br /><br>
+👨‍💻 I am passionate about Web Dev, Android Mobile Development User Interface Design, & I enjoy learning new things exploring new technologies and leverage them to solve real-life problems. I tend to discover ways to apply my knowledge.<br />
 :scientist: Its well said that:
 “Learning never exhausts the mind.” – Leonardo da Vinci <br />
-👨‍💻 Let's Learn and grow<br />
+👨‍💻 Let's Learn and grow <br />
 ⚡  Fun fact: I play Table Tennis and Cricket. I love to watch Footbal and Ice Hockey. <br />
 📫 Connect with me here:
  <p>
