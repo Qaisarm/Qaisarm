@@ -2,7 +2,7 @@
 
 ### I'm Qaisar Mukhtar 
 
-🎓 I’m a Fullstack Developer graduated from &lt;/<span>Salt</span>&gt; School of Applied Technologies.<br/>
+🎓 I’m a Fullstack Developer graduated from &lt;/<span>Salt</span>&gt; School of Applied Technologies, Stockholm, Sweden.<br/>
 👨‍💻 I am passionate about Web Dev, Android Mobile Development User Interface Design, & I enjoy learning new things exploring new technologies and leverage them to solve real-life problems. I tend to discover ways to apply my knowledge.<br />
 :scientist: Its well said that:
 “Learning never exhausts the mind.” – Leonardo da Vinci <br />
