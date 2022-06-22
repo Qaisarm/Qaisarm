@@ -14,7 +14,6 @@ Its well said that:
     <img src="https://img.shields.io/badge/qaisar-mukhtar?style=flat&logo=linkedin">
   </a> 
 </p>
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 ## Tools & Technologies :computer: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,kotlin,nodejs,figma,azure,react,atom,dotnet,idea,mongodb,vscode,webpack,latex)](https://skillicons.dev)
 <p> ## My GitHub Stats ⚡                      ## Top Langauges :man_technologist: </p>
@@ -23,7 +22,7 @@ Its well said that:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qaisarm&hide=TeX&layout=compact)
 
 
- 
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
  
 ## To know more about me
