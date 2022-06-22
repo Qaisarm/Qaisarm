@@ -21,7 +21,7 @@
 
 ## My GitHub Stats ⚡                    
 ![Qaisar's GitHub stats](https://github-readme-stats.vercel.app/api?username=qaisarm&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="320" />
   
 ## Top Langauges :man_technologist: 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qaisarm&hide=TeX&layout=compact)
