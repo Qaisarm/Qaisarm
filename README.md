@@ -10,7 +10,7 @@
 ⚡  Fun fact: I play Table Tennis and Cricket. I love to watch Footbal and Ice Hockey. <br />
 📫 Connect with me here:
  <p>
-  <a href="https://www.linkedin.com/in/qaisarmukhtar/">
+  <a href="www.linkedin.com/in/qaisarmukhtar">
     <img src="https://img.shields.io/badge/qaisar-mukhtar?style=flat&logo=linkedin">
   </a> 
 </p>
